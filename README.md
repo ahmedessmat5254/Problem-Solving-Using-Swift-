@@ -7,9 +7,9 @@ Solve interview problem using swift
   
   <p><b>Solution</b></p>
      <p>Using nested loop</p>
-     ```swift
+     ``` swift
      class Solution {
-    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
       
         for i in 0..<nums.count {
             let firstNumber = nums[i]
