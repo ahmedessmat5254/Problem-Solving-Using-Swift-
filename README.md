@@ -16,3 +16,9 @@ Solve interview problem using swift
   <p>https://github.com/ahmedessmat5254/Problem-Solving-Using-Swift-/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.playground/Contents.swift</p>
   
 
+## Remove Element  
+  <p><b>Problem</b></p>
+  <p>https://leetcode.com/problems/remove-element/</p>
+  
+  <p><b>Solution</b></p>
+  <p>https://github.com/ahmedessmat5254/Problem-Solving-Using-Swift-/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.playground/Contents.swift</p>
